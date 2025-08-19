@@ -6,6 +6,7 @@ This is a desktop application built with Python and tkinter that helps manage an
 
 ### Todo
 
+- [ ] Create exe file for others to easily use
 - [ ] Dark Mode
 - [ ] Module View 
   - [ ] List installed modules
