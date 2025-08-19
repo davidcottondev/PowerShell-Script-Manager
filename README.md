@@ -2,6 +2,24 @@
 
 This is a desktop application built with Python and tkinter that helps manage and organize PowerShell scripts across multiple folders.
 
+<img width="1127" height="860" alt="image" src="https://github.com/user-attachments/assets/fe9f47d9-bcfe-4bbe-8362-59402807bafe" />
+
+### Todo
+
+- [ ] Dark Mode
+- [ ] Module View 
+  - [ ] List installed modules
+  - [ ] Check if updates are available and provide update option
+
+### In Progress
+
+- [ ] Add Modern UI
+
+### Done ✓
+
+- [x] Create MVP
+
+
 ## Requirements
 
 - Python 3.x (tkinter is included in the standard Python distribution)
@@ -30,3 +48,4 @@ python main.py
 3. View all discovered scripts in the "Home (Scripts)" tab
 4. Use the "Refresh Scripts" button to update the list
 5. Remove folders using the "Remove Selected Folder" button in the Folders tab
+
